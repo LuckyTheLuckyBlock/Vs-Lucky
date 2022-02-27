@@ -1,0 +1,30 @@
+{
+	"storyName": "CHAOS, CHAOS, CATCH ME IF YOU CAN!",
+	"hideFreeplay": false,
+	"weekBackground": "fleetway",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Chaos",
+			"fleetway",
+			[
+				255,
+				235,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "sonic-exe4"
+}

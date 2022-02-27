@@ -1,0 +1,31 @@
+{
+	"storyName": "Stop breaking your phone lucky!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "farm",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Lumbi",
+			"lumbi-lol",
+			[
+				215,
+				215,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"lumbi",
+		"bf",
+		"gf"
+	],
+	"weekName": "z"
+}

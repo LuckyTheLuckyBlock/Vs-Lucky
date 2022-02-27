@@ -1,0 +1,10 @@
+{
+	"idle_anim": "kris idle",
+	"confirm_anim": "M Dad Idle",
+	"position": [
+		171,
+		138
+	],
+	"scale": 0.55,
+	"image": "boblucky"
+}

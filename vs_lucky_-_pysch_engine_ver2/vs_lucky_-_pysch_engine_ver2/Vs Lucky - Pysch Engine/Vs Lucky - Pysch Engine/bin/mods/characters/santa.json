@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "santa hurt",
+			"indices": [],
+			"name": "santa hurt"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "santa alt",
+			"indices": [],
+			"name": "santa alt"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "santa BALD",
+			"indices": [],
+			"name": "santa BALD"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "santa",
+			"indices": [],
+			"name": "santa"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/santa",
+	"position": [
+		1470,
+		80
+	],
+	"healthicon": "none",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		135
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

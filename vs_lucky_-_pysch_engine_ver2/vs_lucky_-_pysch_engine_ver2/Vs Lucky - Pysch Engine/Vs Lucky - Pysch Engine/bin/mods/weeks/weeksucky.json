@@ -1,0 +1,30 @@
+{
+	"storyName": "KcolbYckulEhtYckul",
+	"hideFreeplay": false,
+	"weekBackground": "yckul",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		0,
+		0,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"yckul",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Revenge",
+			"yckul",
+			[
+				0,
+				0,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

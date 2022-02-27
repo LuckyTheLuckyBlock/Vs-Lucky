@@ -1,0 +1,10 @@
+{
+	"idle_anim": "BerdIdle",
+	"confirm_anim": "M Dad Idle",
+	"position": [
+		90,
+		-10
+	],
+	"scale": 1,
+	"image": "lucky"
+}

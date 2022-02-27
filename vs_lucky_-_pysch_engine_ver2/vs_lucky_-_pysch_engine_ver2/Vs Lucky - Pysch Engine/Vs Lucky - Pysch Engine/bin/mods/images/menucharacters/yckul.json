@@ -1,0 +1,10 @@
+{
+	"idle_anim": "M BF idle",
+	"confirm_anim": "M BF Idle",
+	"position": [
+		15,
+		-40
+	],
+	"scale": 1,
+	"image": "yckul"
+}

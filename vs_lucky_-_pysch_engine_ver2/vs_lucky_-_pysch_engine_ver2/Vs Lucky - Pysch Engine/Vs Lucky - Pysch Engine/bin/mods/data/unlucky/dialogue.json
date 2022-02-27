@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"expression": "lucky",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "lucky",
+			"text": "hey.. buddy, i feel like we should take a break.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_green"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "THATS WHAT I WAS THINKING... BUT GF..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "actual gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "HEY! dont blame this on me! i just wanted you to have someone else to rap battle! it was your choice to be a popular rapbattler!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "jeez girlfriend"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_green",
+			"boxState": "normal",
+			"expression": "lucky",
+			"text": "uhh im still here guys. i dont want you to argue."
+		},
+		{
+			"expression": "lucky",
+			"text": "anyway my body feels... weird...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_green"
+		},
+		{
+			"expression": "talk",
+			"text": "bf: you can take a break if you want dude. just sit and take a break.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "lucky",
+			"text": "Lucky: nonono... im fine.. i guess we can do...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_green"
+		},
+		{
+			"expression": "lucky",
+			"text": "one....",
+			"boxState": "normal",
+			"speed": 0.2,
+			"portrait": "bf_green"
+		},
+		{
+			"expression": "lucky",
+			"text": "more...",
+			"boxState": "normal",
+			"speed": 0.3,
+			"portrait": "bf_green"
+		},
+		{
+			"speed": 0.4,
+			"portrait": "bf_green",
+			"boxState": "normal",
+			"expression": "lucky",
+			"text": "song......"
+		}
+	]
+}

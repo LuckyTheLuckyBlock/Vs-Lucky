@@ -1,0 +1,30 @@
+{
+	"storyName": "evil chesty",
+	"hideFreeplay": false,
+	"weekBackground": "zanta",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"gf",
+		"bf",
+		"evilchesty"
+	],
+	"songs": [
+		[
+			"Zanta",
+			"evilchesty",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "Custom Week2"
+}

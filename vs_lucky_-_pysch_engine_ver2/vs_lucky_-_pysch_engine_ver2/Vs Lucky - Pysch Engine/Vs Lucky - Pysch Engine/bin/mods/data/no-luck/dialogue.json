@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "???: --, -- ---- ---- -- ------ ----!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "kris"
+		},
+		{
+			"expression": "talk",
+			"text": "bf: w-what??",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "???: --- ------ ----! --- --- -- -- --- -- ---- --!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kris"
+		},
+		{
+			"expression": "talk",
+			"text": "???: :(",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "kris"
+		},
+		{
+			"expression": "talk",
+			"text": "bf: ok, ill save you lucky!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "???: --- --- ---- -- ------- -- --- ----- -- - ------- -- --- --- ---- --- -- ---- --!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "kris"
+		}
+	]
+}

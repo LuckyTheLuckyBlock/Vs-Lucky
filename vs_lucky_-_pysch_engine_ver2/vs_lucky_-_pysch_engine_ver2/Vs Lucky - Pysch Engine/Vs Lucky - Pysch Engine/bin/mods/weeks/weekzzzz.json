@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Glitched",
+			"luckyboi-butglitched",
+			[
+				254,
+				254,
+				254
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stageglitched",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "llllllllllllllllllllllllllllllllllllllllllllllllluuuuuuuuuuuuuuuuuuuuuuuuuuuuucccccccccccccccckkkkkkkkkkyyyyy",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

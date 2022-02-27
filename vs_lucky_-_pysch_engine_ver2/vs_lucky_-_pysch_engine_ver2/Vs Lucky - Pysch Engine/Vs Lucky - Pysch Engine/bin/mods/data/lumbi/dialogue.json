@@ -1,0 +1,11 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf_green",
+			"boxState": "normal",
+			"expression": "lucky",
+			"text": "i have became 3d lol"
+		}
+	]
+}

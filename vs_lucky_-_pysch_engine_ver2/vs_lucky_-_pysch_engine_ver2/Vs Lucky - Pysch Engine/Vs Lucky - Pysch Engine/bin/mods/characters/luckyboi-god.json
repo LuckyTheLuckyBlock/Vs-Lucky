@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF IDLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/luckyboi-god",
+	"position": [
+		-20,
+		-230
+	],
+	"healthicon": "luckyboihasalotofpower",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-140,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 9.99999999999998
+}

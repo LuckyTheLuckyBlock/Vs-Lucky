@@ -1,0 +1,48 @@
+{
+	"storyName": "mmmmmlucky",
+	"hideFreeplay": false,
+	"weekBackground": "lucky",
+	"freeplayColor": [
+		255,
+		255,
+		0
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"boblucky",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Sunshine",
+			"luckyboi-bob",
+			[
+				255,
+				255,
+				100
+			]
+		],
+		[
+			"Withered",
+			"luckyboi-bobmad",
+			[
+				100,
+				100,
+				0
+			]
+		],
+		[
+			"Run",
+			"luckyboi-hellbob",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekName": "bob"
+}

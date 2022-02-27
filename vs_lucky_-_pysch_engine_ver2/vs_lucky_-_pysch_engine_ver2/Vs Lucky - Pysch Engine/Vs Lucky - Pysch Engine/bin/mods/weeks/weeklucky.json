@@ -1,0 +1,48 @@
+{
+	"storyName": "Vs Lucky",
+	"hideFreeplay": false,
+	"weekBackground": "lucky",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		255,
+		255,
+		0
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"lucky",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Lucky",
+			"luckyboi",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Unlucky",
+			"luckyboimad",
+			[
+				200,
+				200,
+				0
+			]
+		],
+		[
+			"No-Luck",
+			"luckyboihasalotofpower",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Cusom Week"
+}

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="kris.png"><SubTexture name="kris idle0000" x="0" y="0" width="589" height="657" frameX="0" frameY="0" frameWidth="589" frameHeight="657" />
+<SubTexture name="kris idle0001" x="589" y="0" width="589" height="657" frameX="0" frameY="0" frameWidth="589" frameHeight="657" />
+<SubTexture name="kris idle0002" x="1178" y="0" width="589" height="657" frameX="0" frameY="0" frameWidth="589" frameHeight="657" />
+<SubTexture name="kris idle0003" x="1767" y="0" width="589" height="657" frameX="0" frameY="0" frameWidth="589" frameHeight="657" />
+<SubTexture name="kris idle0004" x="0" y="657" width="589" height="657" frameX="0" frameY="0" frameWidth="589" frameHeight="657" />
+<SubTexture name="kris idle0005" x="589" y="657" width="589" height="657" frameX="0" frameY="0" frameWidth="589" frameHeight="657" />
+<SubTexture name="kris up0000" x="1178" y="657" width="589" height="733" frameX="0" frameY="0" frameWidth="589" frameHeight="733" />
+<SubTexture name="kris up0001" x="1767" y="657" width="589" height="733" frameX="0" frameY="0" frameWidth="589" frameHeight="733" />
+<SubTexture name="kris down0000" x="0" y="1390" width="589" height="733" frameX="0" frameY="0" frameWidth="589" frameHeight="733" />
+<SubTexture name="kris down0001" x="589" y="1390" width="589" height="733" frameX="0" frameY="0" frameWidth="589" frameHeight="733" />
+<SubTexture name="kris left0000" x="1178" y="1390" width="589" height="733" frameX="0" frameY="0" frameWidth="589" frameHeight="733" />
+<SubTexture name="kris left0001" x="1767" y="1390" width="589" height="733" frameX="0" frameY="0" frameWidth="589" frameHeight="733" />
+<SubTexture name="kris right0000" x="0" y="2123" width="589" height="733" frameX="0" frameY="0" frameWidth="589" frameHeight="733" />
+<SubTexture name="kris hey0000" x="589" y="2123" width="589" height="733" frameX="0" frameY="0" frameWidth="589" frameHeight="733" />
+<SubTexture name="kris hey0001" x="1178" y="2123" width="589" height="733" frameX="0" frameY="0" frameWidth="589" frameHeight="733" />
+<SubTexture name="kris hey0002" x="1767" y="2123" width="815" height="803" frameX="0" frameY="0" frameWidth="815" frameHeight="803" />
+<SubTexture name="kris hey0003" x="0" y="2926" width="779" height="800" frameX="0" frameY="0" frameWidth="779" frameHeight="800" />
+<SubTexture name="kris hey0004" x="779" y="2926" width="640" height="733" frameX="0" frameY="0" frameWidth="640" frameHeight="733" />
+<SubTexture name="kris hey0005" x="1419" y="2926" width="640" height="733" frameX="0" frameY="0" frameWidth="640" frameHeight="733" />
+<SubTexture name="kris hey0006" x="2059" y="2926" width="589" height="733" frameX="0" frameY="0" frameWidth="589" frameHeight="733" />
+<SubTexture name="kris hey0007" x="0" y="3726" width="589" height="733" frameX="0" frameY="0" frameWidth="589" frameHeight="733" />
+</TextureAtlas>

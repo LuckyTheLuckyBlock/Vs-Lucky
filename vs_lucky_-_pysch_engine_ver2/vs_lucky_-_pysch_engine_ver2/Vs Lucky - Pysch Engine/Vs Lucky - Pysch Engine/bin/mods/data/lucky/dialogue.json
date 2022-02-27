@@ -1,0 +1,172 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "BF and Gf go wandering around a forest.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0
+		},
+		{
+			"expression": "talk",
+			"text": "They spot a floating Lucky Block.",
+			"boxState": "normal",
+			"speed": 0,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "The Lucky Block notices them...",
+			"boxState": "normal",
+			"speed": 0,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "As normally, They decide to rap battle him.",
+			"boxState": "normal",
+			"speed": 0,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Jeez GirlFriend... after all of this rapbattling im getting kinda tired...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "come on bf... at least one more person to rap against?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "actual gf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ughh... fine"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "speaking of rap battle who is that?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_green",
+			"boxState": "normal",
+			"expression": "lucky",
+			"text": "oh hey you guys!"
+		},
+		{
+			"expression": "talk",
+			"text": "bf: oh hey.... who are you?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_green",
+			"boxState": "normal",
+			"expression": "lucky",
+			"text": "ohh sorry! my name is Lucky."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "makes sence since you're a lucky block."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_green",
+			"boxState": "normal",
+			"expression": "lucky",
+			"text": "haha. anyway,"
+		},
+		{
+			"expression": "lucky",
+			"text": "Lucky: i dont think ive seen you around here before...",
+			"boxState": "normal",
+			"portrait": "bf_green",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "bf: uhhhh.... im bf. yes. that bf.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "lucky",
+			"text": "Lucky: ...",
+			"boxState": "normal",
+			"portrait": "bf_green",
+			"speed": 0.05
+		},
+		{
+			"expression": "lucky",
+			"text": "Lucky: ...oooooohh",
+			"boxState": "normal",
+			"portrait": "bf_green",
+			"speed": 0.05
+		},
+		{
+			"expression": "lucky",
+			"text": "Lucky: your that popular rap battle guy!",
+			"boxState": "normal",
+			"portrait": "bf_green",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf_green",
+			"boxState": "normal",
+			"expression": "lucky",
+			"text": "Lucky: ive heard about you!"
+		},
+		{
+			"expression": "talk",
+			"text": "bf: yep.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "lucky",
+			"text": "Lucky: let me guess, you wanna have a rap battle?",
+			"boxState": "normal",
+			"portrait": "bf_green",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "bf: yep.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "lucky",
+			"text": "Lucky: ok, ill try my best!",
+			"boxState": "normal",
+			"portrait": "bf_green",
+			"speed": 0.05
+		},
+		{
+			"speed": 0.05,
+			"portrait": "actual gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "good luck bf!"
+		}
+	]
+}

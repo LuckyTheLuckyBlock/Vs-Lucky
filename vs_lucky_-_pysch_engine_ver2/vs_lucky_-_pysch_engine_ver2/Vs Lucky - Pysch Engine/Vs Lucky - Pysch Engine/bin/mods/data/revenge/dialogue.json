@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Could not find char_bf, Press Enter to continue.",
+			"boxState": "normal",
+			"speed": 0,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "yckul",
+			"text": "???: HAHAHAHHAHAHAHAHHAHAHAHAHAHHAHAHAHHAHAHAHHAHAH!!!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_green"
+		},
+		{
+			"expression": "yckul",
+			"text": "???: welcome bf.xml.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_green"
+		},
+		{
+			"expression": "yckul",
+			"text": "TO NO-WHERE!!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_green"
+		},
+		{
+			"expression": "yckul",
+			"text": "no i mean seriously, this isnt even a loaded background.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_green"
+		}
+	]
+}

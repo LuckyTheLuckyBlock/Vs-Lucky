@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Lucky_But_Dream has joined the server!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "lucky",
+			"text": "LBD: who is u??",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_green"
+		},
+		{
+			"expression": "talk",
+			"text": "bf: po bep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "lucky",
+			"text": "LBD: ok rab babtle now",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf_green"
+		}
+	]
+}
